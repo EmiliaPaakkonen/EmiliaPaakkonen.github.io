@@ -1,0 +1,64 @@
+.header {
+    
+}
+body {
+    background-image: url("https://www.goodfreephotos.com/albums/japan/osaka/spring-blossoms-at-temple-in-osaka-japan.jpg");
+    background-color: #cccccc;
+  }
+h1 { 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: repeating-linear-gradient(white,red);
+    border-style: solid;
+    border-radius: 25px;
+    padding: 5px 15px;
+    color: rgb(0, 0, 0);
+    border-width: 2px;
+}
+.navbar {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbutton {
+    display:inline-block;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 25px;
+    text-decoration: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#basicinfo {
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 230, 230, 0.842);
+    border-style: solid;
+    border-radius: 25px;
+    padding: 5px 15px;  
+    border-width: 2px
+}
+
+#nature {
+    color: black;
+    background-color:  rgba(255, 230, 230, 0.842);
+    border-style: solid;
+    border-radius: 25px;
+    padding: 5px 15px;
+    border-width: 2px
+}
+
+#food {
+        color: black;
+        background-color:  rgba(255, 230, 230, 0.842);
+        border-style: solid;
+        border-radius: 25px;
+        padding: 5px 15px;
+        border-width: 2px
+}
+    
+
+
